@@ -1,6 +1,10 @@
 ---
 ---
 
+.credits, .fork{
+display:none;
+}
+
 @import "{{ site.theme }}";
 
 img{
