@@ -9,3 +9,8 @@ I will argue that within scholarly endeavors there should be a focus on elevatin
 [Continue Reading](blog)
 
 ![](images/picture_1.jpg)
+
+
+## Solo Presentation
+
+![Memex](reveal/index.html)
