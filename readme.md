@@ -13,4 +13,4 @@ I will argue that within scholarly endeavors there should be a focus on elevatin
 
 ## Solo Presentation
 
-![Memex](reveal/index.html)
+[Memex](reveal/index.html)
