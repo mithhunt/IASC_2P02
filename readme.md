@@ -9,6 +9,12 @@ I am a designer, artist, and student of Digital Humanities, Studying at Brock Un
 ## Featured Project
 
 ## Collaborative Presentation
+For our group presentation, we collborated on research into use of linked open data. Specifically a project by the name of Linked Jazz. It is a collbortative project of its own right. Created and developed between multiple insitusions and funded by research grants. It takes advantage of a database constructed from archival data of the historical Jazz music scene. The world of Jazz music can be visualized as a  By linking, searching and marking up old interviews, Album and concert details, etc. Artist's networks of collbarorators, infulences, freinds and other interesting facts can be rediscovered or possibly found for the first time.  
+
+
+
+
+![](images/Linked Jazz.png)
 
 
 ## Research Presentation
