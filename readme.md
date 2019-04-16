@@ -17,6 +17,17 @@ For our group presentation, we collborated on research into use of linked open d
 ![](images/Linked Jazz.png)
 
 
+Deliverables: 
+
+
+Research of the general background information, and some examples which tied into the theoretical components of our presentation.
+
+Creation of graphic design to make the presentation more attractive. 
+
+The constructed slideshow itself, enteringmost of the written research into point form lists: https://docs.google.com/presentation/d/1vd3dYX-A2UtBQR-U2PApYLCKavPSctZPEv3WvfFr8wU/edit?usp=sharing
+
+
+
 ## Research Presentation
 
 [Memex](reveal/index.html)
