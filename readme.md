@@ -6,7 +6,18 @@ I am a designer, artist, and student of Digital Humanities, Studying at Brock Un
 
 
 
+
+
 ## Featured Project
+
+## Research Presentation
+![](reveal/img/0008_memex1-web%20(1).jpg)
+Abstract: This presnation takes the Memex device concept and supposes it had become a reality. We begin by providing some background into technologies which might have been implmented for this tehnology. What would the world with a proto-internet system have been like, 20 years a head of common electronic computers.
+
+to revise this presentation I would have changed my research and stucture. Dismiss so much of the backgroun informationa nd focus more heavly on what the imagined impacts of this technology would ahve been. As well I would have more of the details clearly explained. Like who the creator was and what were their ideas meant to represent. Explaining the technical side of things is fine but I need more division between the humanities part and the practical technology.
+
+
+[Memex](reveal/index.html)
 
 ## Collaborative Presentation
 For our group presentation, we collborated on research into use of linked open data. Specifically a project by the name of Linked Jazz. It is a collbortative project of its own right. Created and developed between multiple insitusions and funded by research grants. It takes advantage of a database constructed from archival data of the historical Jazz music scene. The world of Jazz music can be visualized as a  By linking, searching and marking up old interviews, Album and concert details, etc. Artist's networks of collbarorators, infulences, freinds and other interesting facts can be rediscovered or possibly found for the first time.  
@@ -28,9 +39,6 @@ The constructed slideshow itself, enteringmost of the written research into poin
 
 
 
-## Research Presentation
-
-[Memex](reveal/index.html)
 
 ## Academic Blog
 I will argue that within scholarly endeavors there should be a focus on elevating the discoverability of knowledge, and that movement toward new formats of data representation play a large role in that principle. Unfortunately sweeping hyperbolic statements aimed at discouraging the continued usage of a convention undermine their authors own goals...
